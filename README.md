@@ -2,7 +2,7 @@
 - 👀 I’m interested in films, tv shows, music, sports, travelling and engineering
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to learn
-- 📫 My LinkedIn profile is https://www.linkedin.com/in/evaazevedo/
+- 📫 My LinkedIn profile 
 
 <!---
 evaazevedo/evaazevedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
